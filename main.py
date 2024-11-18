@@ -1,1 +1,1 @@
-import tabula 
+import tabula       file = open("data\grade11results-2024.csv", "r") print(file.read())
